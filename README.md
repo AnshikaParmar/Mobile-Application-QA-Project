@@ -25,11 +25,11 @@ Screenshots & Videos : captured during testing
 Git & GitHub : version control
 
 # Repository Structure
-TestData_Bugs_and_TestCases.xlsx : Test cases and bug reports
+TestData_Bugs_&_TestCases.xlsx : Test cases and bug reports
 
-Bug_Screenshots : Screenshots and videos from testing
+StarWarsApp_Bug_SS : Screenshots and videos from testing
 
-Postman_Collection.json : Postman collection for API tests
+Postman_API_Collection.json : Postman collection for API tests
 
 README.md : Project overview and instructions
 
