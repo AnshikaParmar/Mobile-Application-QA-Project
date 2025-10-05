@@ -15,8 +15,8 @@ It demonstrates the ability to design, execute, and document tests, verify backe
   
 # Test Documentation
 - Excel Workbook: TESTDATA_BUGS_TESTCASES.xlsx
-- Test Cases: Steps, expected vs actual results, pass/fail, comments
-- Bug Report: Bug ID, severity, priority, linked test cases, steps, evidence
+      * Test Cases: Steps, expected vs actual results, pass/fail, comments
+      * Bug Report: Bug ID, severity, priority, linked test cases, steps, evidence
 - Execution Summary: All critical functional and non-functional tests executed with documented results
 
 # Repository Structure
