@@ -12,7 +12,7 @@ It demonstrates the ability to design, execute, and document tests, verify backe
 - Manual Testing: Verified functionality, usability, compatibility, performance, and security
 - API Testing: Executed manual and automated GET tests in Postman to ensure backend data accuracy and consistency with the app
 - Documentation: Maintained test cases, bug reports, screenshots, and videos for traceability
-- 
+  
 # Test Documentation
 - Excel Workbook: TESTDATA_BUGS_TESTCASES.xlsx
 - Test Cases: Steps, expected vs actual results, pass/fail, comments
